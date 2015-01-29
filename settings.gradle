@@ -1,1 +1,1 @@
-include ':app', ':firstmodule'
+include ':app', ':firstmodule', ':first_git_app'
